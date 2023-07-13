@@ -26,4 +26,17 @@
 #         id += 1
 # print("symbols ", id)
 
+#3. Користувач вводить з клавіатури рядок,
+# слово для пошуку, слово для заміни.
+# Зробіть у рядку заміну одного слова на інше.
+# Отриманий рядок на екрані.
+
+# line = input("Enter some text ")
+# search = input("Enter search word ")
+# replace = input("Enter word for replace ")
+#
+# line = line.replace(search, replace)
+# print(line)
+
+
 
